@@ -24,9 +24,7 @@ To prevent this, the scoring engine uses a **Multiplier-Based Pipeline**, not a 
 
 ### Governing Formula
 
-\[
-\text{Trust Score} = (\text{Authority}) \times (\text{Availability}) \times (\text{Entailment})
-\]
+Trust_Score = Authority × Availability × Entailment
 
 ### Entailment Kill Switch
 
